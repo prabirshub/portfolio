@@ -1,0 +1,32 @@
+<svg width="1740" height="1142" viewBox="0 0 1740 1142" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_4_30" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1740" height="1142">
+<line x1="150.25" y1="1.21871e-08" x2="150.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="150.25" y1="1.21871e-08" x2="150.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="294.25" y1="1.26949e-08" x2="294.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="438.25" y1="1.26949e-08" x2="438.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="1002.75" x2="1740" y2="1002.75" stroke="white" stroke-width="0.5"/>
+<line x1="582.25" y1="1.26949e-08" x2="582.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="858.75" x2="1740" y2="858.75" stroke="white" stroke-width="0.5"/>
+<line x1="726.25" y1="1.26949e-08" x2="726.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="714.75" x2="1740" y2="714.75" stroke="white" stroke-width="0.5"/>
+<line x1="870.25" y1="1.26949e-08" x2="870.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="570.75" x2="1740" y2="570.75" stroke="white" stroke-width="0.5"/>
+<line x1="1014.25" y1="1.26949e-08" x2="1014.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="426.75" x2="1740" y2="426.75" stroke="white" stroke-width="0.5"/>
+<line x1="1158.25" y1="1.26949e-08" x2="1158.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="282.75" x2="1740" y2="282.75" stroke="white" stroke-width="0.5"/>
+<line x1="1302.25" y1="1.26949e-08" x2="1302.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="7.73708e-10" y1="138.75" x2="1740" y2="138.75" stroke="white" stroke-width="0.5"/>
+<line x1="1446.25" y1="1.26949e-08" x2="1446.25" y2="1142" stroke="white" stroke-width="0.5"/>
+<line x1="1590.25" y1="1.26949e-08" x2="1590.25" y2="1142" stroke="white" stroke-width="0.5"/>
+</mask>
+<g mask="url(#mask0_4_30)">
+<rect width="1740" height="1142" fill="url(#paint0_radial_4_30)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_4_30" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(870) rotate(90) scale(990 870)">
+<stop stop-color="#71717A"/>
+<stop offset="1" stop-color="#71717A" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
